@@ -7,5 +7,9 @@ In this paper, we fine-tune three transformer models to improve emotion detectio
 ### Installation Guide
 1. Step Clone Repository
 2. Download Truth Seeker Dataset 2023
+```
 https://www.unb.ca/cic/datasets/truthseeker-2023.html
-3. Install requirements.txt
+```
+4. Install requirements.txt
+
+
