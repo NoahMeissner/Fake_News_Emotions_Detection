@@ -1,4 +1,4 @@
-# Fake_News_Emotions_Detection
+# Emotional Indicators
 
 ### Motivation
 Social platforms are a primary source of news, but also facilitate misinformation. Anger and other negative emotions help misinformation spread. Traditional fact-checking is no longer enough, so automated detection is needed. This must address emotional manipulation and the evolving nature of misinformation. 
